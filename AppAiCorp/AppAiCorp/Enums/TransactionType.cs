@@ -3,7 +3,7 @@
 /// <summary>
 /// Trans type.
 /// </summary>
-    public enum TransType
+    public enum TransactionType
     {
         SALE
     }

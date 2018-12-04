@@ -72,7 +72,7 @@
     </Compile>
     <Compile Include="Type\Transaction.cs" />
     <Compile Include="Enums\ResultMethod.cs" />
-    <Compile Include="Enums\TransType.cs" />
+    <Compile Include="Enums\TransactionType.cs" />
     <Compile Include="Implements\Payment.cs" />
     <Compile Include="Interfaces\IPayment.cs" />
     <Compile Include="Enums\HashOption.cs" />
